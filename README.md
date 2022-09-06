@@ -1,4 +1,6 @@
-### Hi there 👋
+https://github.com/DarioDidier/DarioDidier/blob/main/Analista%20programador%20.net.png?raw=true
+
+
 
 <!--
 **DarioDidier/DarioDidier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
