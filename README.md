@@ -1,4 +1,4 @@
-(https://github.com/DarioDidier/DarioDidier/blob/main/Analista%20programador%20.net.png?raw=true)[]
+![Analista programador  net](https://user-images.githubusercontent.com/101843376/188549884-f2aa9635-a203-4e8c-a893-8e146975e0cd.png)
 
 
 
