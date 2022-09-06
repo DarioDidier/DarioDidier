@@ -1,4 +1,4 @@
-https://github.com/DarioDidier/DarioDidier/blob/main/Analista%20programador%20.net.png?raw=true
+(https://github.com/DarioDidier/DarioDidier/blob/main/Analista%20programador%20.net.png?raw=true)[]
 
 
 
